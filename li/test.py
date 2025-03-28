@@ -14,6 +14,12 @@ print("test ki")
 123
 
 
+print("test wu")
+print("test wu")
+print("test wu")
+print("test wu")
+print("test wu")
+
 
 
 
